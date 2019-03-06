@@ -17,6 +17,7 @@ Go语言的学习笔记,主要记录Go语言的基础语法。
 [6.方法](./chapter/6.md) 
 
 [7.接口](./chapter/7.md) 
+
 [8.并发](./chapter/8.md) 
 
 [9.包](./chapter/9.md) 
